@@ -22,6 +22,7 @@ pip install bs4
 pip install rich
 
 git clone https://github.com/FAHIM404-CYBER/DDOS
+
 cd DDOS
 
 chmod +x" ddos.py
