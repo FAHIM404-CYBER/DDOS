@@ -25,7 +25,7 @@ git clone https://github.com/FAHIM404-CYBER/DDOS
 
 cd DDOS
 
-chmod +x* ddos.py
+chmod +x ddos.py
 
 python ddos.py
 
