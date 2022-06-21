@@ -27,7 +27,7 @@ cd DDOS
 
 chmod +x ddos.py
 
-python ddos.py
+python2 ddos.py
 
 
 
